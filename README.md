@@ -24,7 +24,8 @@ Logistics Events → Python Producers → Apache Kafka → Python Stream Process
 
 Decision framework: **Detect → Diagnose → Quantify → Prioritise → Act**
 
-![Architecture](End_to_End_Infrastructure.png)
+<img width="1700" height="840" alt="End_to_End_Infrastructure" src="https://github.com/user-attachments/assets/4866df92-147d-4683-883d-e9dd438ae69e" />
+
 
 ## Key Results
 
