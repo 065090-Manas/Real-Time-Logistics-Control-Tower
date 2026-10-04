@@ -27,7 +27,7 @@ Decision framework: **Detect → Diagnose → Quantify → Prioritise → Act**
 <img width="1700" height="840" alt="End_to_End_Infrastructure" src="https://github.com/user-attachments/assets/4866df92-147d-4683-883d-e9dd438ae69e" />
 
 
-## Key Results
+## Key ResultS
 
 | Metric | Value |
 |---|---|
